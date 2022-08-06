@@ -3,3 +3,5 @@ console.log(string.toLowerCase());
 console.log(string.toUpperCase());
 console.log(string.indexOf("a"));
 console.log(string.split(" "));
+
+console.log(string);
