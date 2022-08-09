@@ -19,5 +19,5 @@ if ((result > 80, (result = 80))) {
 } else if ((result > 40, (result = 40))) {
   console.log("D");
 } else {
-  console.log("F");
+  console.log("Fail");
 }
