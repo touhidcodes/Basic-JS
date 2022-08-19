@@ -1,5 +1,5 @@
 //var decleare
-var nameOfFriends = ["Sakib", "Jisan", "Mithun", "Rabbi", "Mamun"];
+var nameOfFriends = ["Sakib", "Jisan", "Mithun", "Rabbi", "Mamun", "Rohomot"];
 console.log(nameOfFriends);
 
 //add element in last
@@ -19,3 +19,10 @@ console.log(nameOfFriends);
 //removes element in first
 remove = nameOfFriends.shift();
 console.log(nameOfFriends);
+
+//slice element
+var slice = nameOfFriends.slice(4, 6);
+console.log(slice);
+
+//index of
+console.log(nameOfFriends.indexOf("Rabbi"));
