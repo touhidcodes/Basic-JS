@@ -1,9 +1,6 @@
 var orange = "This is orange";
 
 switch (orange) {
-  case papaya:
-    console.log("This is Papaya");
-    break;
   case orange:
     console.log("This is Orange");
     break;
