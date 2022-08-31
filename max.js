@@ -16,3 +16,7 @@ if (business > minister) {
     console.log("Sochib is bigger.");
   }
 }
+
+// Max Method
+var max = Math.max(business, minister, sochib);
+console.log("Max Number is", max);
